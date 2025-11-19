@@ -22,6 +22,7 @@ out/
 *.out
 coverage.*
 *.lcov
+*.http
 
 # IDE / Editor settings
 # VSCode

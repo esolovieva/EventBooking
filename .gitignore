@@ -38,4 +38,8 @@ coverage.*
 # Logs
 *.log
 
+#DB files
+*.db
+*.sqlite
+*.sqlite3
 
